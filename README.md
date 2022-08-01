@@ -1,2 +1,2 @@
-# Desafio-de-Projeto-da-P-gina-Inicial-do-instagram
+# Desafio-de-Projeto-da-Pagina-Inicial-do-instagram
 Página Inicial do Instagram
